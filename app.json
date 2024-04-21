@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.4",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "name": "jeffsv-md@1.0.0",
+  "description": "I am jeffsvj-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "logo": "#https://github.com/Jeffmsvj52/JEFFSVJ/blob/main/lib/assets/SVJ.jpg?raw=true",
+  "keywords": ["whatsappbot", "jeffsvjMd", "jeffsvj Md bot", "Jeffsvj-Md", "jeffsvjMdWhatsaooBot", "jeffsvjWaBot","jeffsvjMD","jeffsvj Md Whatsapp Bot","multi device"],
+  "success_url": "/JEFFSVJ/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "JEFFSVJ",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "JEFFSVJ-MD"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required" :false,
-      "value": "unavailable"
+      "value": "available"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -77,12 +77,12 @@
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
       "required" :false,
-      "value": "false"
+      "value": "true"
     },
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
       "required" :false,
-      "value": "false"
+      "value": "true"
     },
     "DISABLE_PM": {
       "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "254790438394"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -114,7 +114,7 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "TfVS8Z7pdrMCfexGjbCzy9aK",
       "required" :false
     },
     "MODE": {
@@ -123,12 +123,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "JEFFSVJ",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "JEFFSVJ",
       "required": false 
     }
   }, 
