@@ -31,14 +31,14 @@
   </a>
 
 </p>
-<p align="center"><img src="[https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg]" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="[https://profile-counter.glitch.me/{Jeffmsvj52}/count.svg]" alt="Jeffmsvj52 :: Visitor's Count" /></p>
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/Jeffmsvj52">
+ <img title="Owner" src="https://img.shields.io/badge/Jeffmsvj52-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/Jeffmsvj52">
+    <img src="https://img.shields.io/github/followers/Jeffmsvj52?style=flat-square&logo=github&color=darkred">
   </a>
   
 
