@@ -27,7 +27,7 @@
 
 
   <a aria-label="JEFFSVJ_Md is free to use" href="https://www.instagram.com/jeffrey.murithi?igsh=MTA3Zm14ZnMzZ2dmeA==" target="_blank">
-    <img alt="" src="" target="_blank" />
+    <img alt="Jeffmsvj52 IG" src="" target="_blank" />
   </a>
 
 </p>
