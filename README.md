@@ -21,12 +21,12 @@
     <img src="https://img.shields.io/github/forks/Jeffmsvj52/JEFFSVJ?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/Jeffmsvj52/JEFFSVJ/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+     <img src="https://img.shields.io/github/stars/Jeffmsvj52/JEFFSVJ?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="JEFFSVJ_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="JEFFSVJ_Md is free to use" href="https://www.instagram.com/jeffrey.murithi?igsh=MTA3Zm14ZnMzZ2dmeA==" target="_blank">
     <img alt="" src="" target="_blank" />
   </a>
 
@@ -64,11 +64,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Jeffmsvj52/JEFFSVJ"><b>JEFFSVJ-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Jeffmsvj52/JEFFSVJ/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -78,9 +78,9 @@
  <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
 </p>
 <p align="center">
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Jeffmsvj52/JEFFSVJ/issues">issue</a></p>
 
  
 
