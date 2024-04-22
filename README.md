@@ -103,4 +103,10 @@
 
 <h2 align="center"> ⚠️ NOTE  </h2>
 
+## 
+- *JEFFSVJ is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use JEFFSVJ at your own risk by keeping this warning in mind.*
+- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Jeffmsvj52/JEFFSVJ)
+
    
